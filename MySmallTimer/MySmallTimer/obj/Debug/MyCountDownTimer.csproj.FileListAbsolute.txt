@@ -1,0 +1,13 @@
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\bin\Debug\MyCountDownTimer.exe.config
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\bin\Debug\MyCountDownTimer.exe
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\bin\Debug\MyCountDownTimer.pdb
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MainWindow.baml
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MainWindow.g.cs
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\App.g.cs
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer_MarkupCompile.cache
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.g.resources
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.Properties.Resources.resources
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.csproj.GenerateResource.Cache
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.exe
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.pdb
+c:\users\geowang\documents\visual studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.csprojResolveAssemblyReference.cache

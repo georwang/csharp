@@ -1,0 +1,12 @@
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Release\MySmallTimer.exe.config
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Release\MySmallTimer.exe
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Release\MySmallTimer.pdb
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MainWindow.baml
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MainWindow.g.cs
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\App.g.cs
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer_MarkupCompile.cache
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer.g.resources
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer.Properties.Resources.resources
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer.csproj.GenerateResource.Cache
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer.exe
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Release\MySmallTimer.pdb

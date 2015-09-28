@@ -1,0 +1,15 @@
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\bin\Debug\MyCountDownTimer.exe.config
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.exe
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MyCountDownTimer\MyCountDownTimer\obj\Debug\MyCountDownTimer.pdb
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Debug\MySmallTimer.exe.config
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Debug\MySmallTimer.exe
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\bin\Debug\MySmallTimer.pdb
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MainWindow.baml
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MainWindow.g.cs
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\App.g.cs
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer_MarkupCompile.cache
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer.g.resources
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer.Properties.Resources.resources
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer.csproj.GenerateResource.Cache
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer.exe
+C:\Users\geowang\Documents\Visual Studio 2013\Projects\MySmallTimer\MySmallTimer\obj\Debug\MySmallTimer.pdb
