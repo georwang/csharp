@@ -23,8 +23,7 @@ namespace MyCountDownTimer
         private System.Windows.Forms.Timer myDateTimeTimer;
         private System.Windows.Forms.Timer myTimer = new System.Windows.Forms.Timer();
         private uint currentTick = 0, currentMilliSecond = 0, currentSecond = 0, currentMinute = 0, currentHour = 0;
-        private bool firstTimeClickStartBtn = true;
-        
+                
         public MainWindow()
         {
             InitializeComponent();
@@ -46,17 +45,12 @@ namespace MyCountDownTimer
 
         private void BtnStart_Click(object sender, RoutedEventArgs e)
         {
-            if (firstTimeClickStartBtn || BtnStart.Content.ToString() == "START")
+            if (BtnStart.Content.ToString() == "START")
             {
 
                 myTimer.Tick += new EventHandler(myTimer_Tick);
                 myTimer.Interval = 10;
                 myTimer.Start();
-
-                if (firstTimeClickStartBtn)
-                {
-                    firstTimeClickStartBtn = false;
-                }
             }
             else
             {
